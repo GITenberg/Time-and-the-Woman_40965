@@ -1,0 +1,29 @@
+_repo: Time-and-the-Woman_40965
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40965-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dewey, G. Gordon
+    alias: Dewey, Gordon
+    birthdate: 1916
+    gutenberg_agent_id: '40932'
+    url: http://www.gutenberg.org/2009/agents/40932
+description: ''
+gutenberg_issued: '2012-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Space travelers -- Fiction'
+- !lcc 'PS'
+title: Time and the Woman
+url: http://www.gutenberg.org/ebooks/40965
